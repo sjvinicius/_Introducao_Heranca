@@ -20,7 +20,7 @@ namespace _Introducao_Heranca.Class
         }
 
         //Exibir Dados
-        public string Dados()
+        public string Dados(string nome, string sobrenome, string numCartao, string cvv, string validade)
         {
 
             return $"Nome Completo: {nome} {sobrenome}\nNumero do Cartão: {numCartao}\nCVV: {cvv}\n Validade: {validade}";

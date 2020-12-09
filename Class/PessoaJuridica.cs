@@ -8,7 +8,7 @@ namespace _Introducao_Heranca.Class
 
 
         //Métodos
-        public string dadosExtraJur()
+        public string dadosExtraJur(string cnpj, string nomeDaEmpresa)
         {
 
             return $"cnpj: {cnpj}\nNome da Empresa: {nomeDaEmpresa}";

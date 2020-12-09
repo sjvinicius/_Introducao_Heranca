@@ -46,7 +46,13 @@ namespace _Introducao_Heranca
 
                 p1.ValidarRG();
 
-                Console.WriteLine("\n\n", p1.Dados() );
+                Console.WriteLine($"\n\n {p1.nome}" );
+                Console.WriteLine($" {p1.sobrenome}" );
+                Console.WriteLine($" {p1.numCartao}" );
+                Console.WriteLine($" {p1.cvv}" );
+                Console.WriteLine($" {p1.validade}" );
+                Console.WriteLine($" {p1.rg}" );
+                Console.WriteLine($" {p1.cpf}" );
 
             } else if ( pestype == '2' )
             {
@@ -57,8 +63,13 @@ namespace _Introducao_Heranca
                 Console.Write("Insira o nome da sua empresa: ");
                 p1j.nomeDaEmpresa = Console.ReadLine();
 
-                Console.WriteLine("\n", p1j.dadosExtraJur() );
-                Console.WriteLine("\n\n", p1.Dados() );
+                Console.WriteLine($"\n\n {p1.nome}" );
+                Console.WriteLine($" {p1.sobrenome}" );
+                Console.WriteLine($" {p1.numCartao}" );
+                Console.WriteLine($" {p1.cvv}" );
+                Console.WriteLine($" {p1.validade}" );
+                Console.WriteLine($" {p1j.cnpj}" );
+                Console.WriteLine($" {p1j.nomeDaEmpresa}" );
 
             }
 
