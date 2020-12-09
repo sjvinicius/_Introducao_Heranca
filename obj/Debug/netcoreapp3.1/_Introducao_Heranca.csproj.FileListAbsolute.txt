@@ -1,0 +1,13 @@
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Heranca\obj\Debug\netcoreapp3.1\_Introducao_Heranca.csprojAssemblyReference.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Heranca\obj\Debug\netcoreapp3.1\_Introducao_Heranca.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Heranca\obj\Debug\netcoreapp3.1\_Introducao_Heranca.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Heranca\obj\Debug\netcoreapp3.1\_Introducao_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Heranca\bin\Debug\netcoreapp3.1\_Introducao_Heranca.exe
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Heranca\bin\Debug\netcoreapp3.1\_Introducao_Heranca.deps.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Heranca\bin\Debug\netcoreapp3.1\_Introducao_Heranca.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Heranca\bin\Debug\netcoreapp3.1\_Introducao_Heranca.runtimeconfig.dev.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Heranca\bin\Debug\netcoreapp3.1\_Introducao_Heranca.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Heranca\bin\Debug\netcoreapp3.1\_Introducao_Heranca.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Heranca\obj\Debug\netcoreapp3.1\_Introducao_Heranca.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Heranca\obj\Debug\netcoreapp3.1\_Introducao_Heranca.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Introducao_Heranca\obj\Debug\netcoreapp3.1\_Introducao_Heranca.genruntimeconfig.cache
